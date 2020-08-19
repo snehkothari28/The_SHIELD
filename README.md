@@ -1,10 +1,10 @@
 # The SHIELD
 We are team of engineers working towards the goal of mitigating online child abuse using NLP by predicting child grooming pattern.
 
-Warning few examples might contain explicit language. <br />
-The Flask webserver was built using the Flask tutorial. <br />
+*Warning few examples might contain explicit language. <br />
+The Flask webserver was built using the Flask tutorial.* <br />
 
-Remember to replace Pusher ID tags with your own.
+*Remember to replace Pusher ID tags with your own.*
 
 ### Results:
 
@@ -15,8 +15,6 @@ Remember to replace Pusher ID tags with your own.
 #### GIF output of website
 
 ![Output sample](https://github.com/snehkothari28/The_SHIELD/blob/master/media/sample.gif)
-
-
 
 
 ### Running the chat server
